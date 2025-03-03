@@ -2,8 +2,32 @@ This public page contains slide decks from presenters at the DIGISURVOR Workshop
 
 Slide Decks: 
 
-[DIGISURVOR Team: Slide Deck](https://github.com/ConorGaughan2/digisurvor_workshop/blob/main/docs/UoM%20Team%20Presentation_Digisurvor%20Workshop.pptx)
+**Session 1: Introduction** 
 
-Slide Decks:
-[DIGISURVOR Team: Slide Deck](https://github.com/ConorGaughan2/digisurvor_workshop/blob/main/docs/UoM%20Team%20Presentation_Digisurvor%20Workshop.pptx)
+[DIGISURVOR Team - Slides](https://github.com/ConorGaughan2/digisurvor_workshop/blob/main/docs/UoM%20Team%20Presentation_Digisurvor%20Workshop.pptx)
+[DIGISURVOR Team - Variable Document (W.I.P)] 
 
+**Session 2: Overview of existing data donation platforms**
+
+[Bella Struminskaya (Utrecht University) – The EU - The D3I Project]
+[Alexi Quintana Mathé (Northeastern University) – The US - National Internet Observatory]
+[David Zendle (University of York) – The UK - Data Donation Service (DDS) UK]
+
+**Session 3: Linking survey and social media data**
+
+[Jonathan Nagler (NYU Center for Social Media and Politics)]
+[Tarek Al Baghal (University of Essex)]
+[Andreu Casas (Royal Holloway)]
+[Sebastian Stier (GESIS)]
+
+**Session 4: Linking survey and web-tracking data**
+
+[Melanie Revilla (Universitat Pompeu Fabra)]
+[Florian Keusch (University of Mannheim)]
+[Toby Crisp (IPSOS)]
+
+**Session 5: Social science research using linked data**
+
+[Ruben Bach (University of Mannheim)]
+[Silvia Majo-Vazquez (Vrije Universiteit Amsterdam)]
+[Sarah Shugars (Rutgers University)]
