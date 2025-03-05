@@ -40,5 +40,5 @@ Slide Decks:
 
 [Silvia Majo-Vazquez (Vrije Universiteit Amsterdam)](https://github.com/ConorGaughan2/digisurvor_workshop/blob/main/docs/20250214_DigiSurv_Presentation_SMV.pdf)
 
-[Sarah Shugars (Rutgers University)](https://github.com/ConorGaughan2/digisurvor_workshop/blob/main/docs/Digisurvor_workshop_SShugars.pdf) 
+[Sarah Shugars (Rutgers University)](https://github.com/ConorGaughan2/digisurvor_workshop/blob/main/docs/Digisurvor_workshop_S_Shugars.pdf) 
 
