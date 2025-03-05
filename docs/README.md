@@ -20,11 +20,11 @@ Slide Decks:
 
 [Jonathan Nagler (NYU Center for Social Media and Politics)]
 
-[Tarek Al Baghal (University of Essex)]
+[Tarek Al Baghal (University of Essex)](https://github.com/ConorGaughan2/digisurvor_workshop/blob/main/docs/albaghal.digisurvor.v2.pptx)
 
 [Andreu Casas (Royal Holloway)]
 
-[Sebastian Stier (GESIS)]
+[Sebastian Stier (GESIS)](https://github.com/ConorGaughan2/digisurvor_workshop/blob/main//docs/DIGISURVOR_Manchester_Stier.pdf)
 
 **Session 4: Linking survey and web-tracking data**
 
@@ -40,5 +40,5 @@ Slide Decks:
 
 [Silvia Majo-Vazquez (Vrije Universiteit Amsterdam)](https://github.com/ConorGaughan2/digisurvor_workshop/blob/main/docs/20250214_DigiSurv_Presentation_SMV.pdf)
 
-[Sarah Shugars (Rutgers University)]
+[Sarah Shugars (Rutgers University)](https://github.com/ConorGaughan2/digisurvor_workshop/blob/main/docs/Digisurvor_workshop_SShugars.pdf) 
 
