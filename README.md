@@ -1,3 +1,2 @@
 # Digisurvor Workshop: Linking Digital Footprint and Survey Data for Open Research
-This repository contains slide decks and other relevant documents for the Digisurvor Project Workshop 1 hosted on the 13th and 14th Feburary 2025.
-
+This public page contains slide decks from presenters at the DIGISURVOR Workshop: ‘Linking Digital Footprint and Survey Data for Open Research’ 13-14th February 2025 along with other relevant documents.
