@@ -14,7 +14,7 @@ Slide Decks:
 
 [Alexi Quintana Mathé (Northeastern University) – The US - National Internet Observatory](https://github.com/ConorGaughan2/digisurvor_workshop/blob/main/docs/NIO_Manchester.pdf)
 
-[David Zendle (University of York) – The UK - Data Donation Service (DDS) UK](docs/SDDS Manchester 13-02-2025.pptx)
+[David Zendle (University of York) – The UK - Data Donation Service (DDS) UK](https://github.com/ConorGaughan2/digisurvor_workshop/blob/main/docs/SDDS_Manchester_13-02-2025.pptx)
 
 **Session 3: Linking survey and social media data**
 
