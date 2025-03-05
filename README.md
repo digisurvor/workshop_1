@@ -3,7 +3,7 @@ This public page contains slide decks from presenters at the DIGISURVOR Workshop
 
 **Folders**
 
-[General Information](https://github.com/digisurvor/workshop_1/tree/main/general_information)
+[General Information](general_information)
 
 
 [Slide Decks](docs)
