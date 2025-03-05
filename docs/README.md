@@ -1,4 +1,4 @@
-This public page contains slide decks from presenters at the DIGISURVOR Workshop: ‘Linking Digital Footprint and Survey Data for Open Research’ 13-14th February 2025 and other relevant documents hello. 
+This public page contains slide decks from presenters at the DIGISURVOR Workshop: ‘Linking Digital Footprint and Survey Data for Open Research’ 13-14th February 2025 and other relevant documents. 
 
 Slide Decks: 
 
@@ -29,8 +29,6 @@ Slide Decks:
 **Session 4: Linking survey and web-tracking data**
 
 [Melanie Revilla (Universitat Pompeu Fabra)](https://github.com/ConorGaughan2/digisurvor_workshop/blob/main/docs/Manchester-Melanie-vf.pdf)
-
-[Florian Keusch (University of Mannheim)]
 
 [Toby Crisp (IPSOS)](https://github.com/ConorGaughan2/digisurvor_workshop/blob/main/docs/Ipsos_Linking_survey_web_tracking_data.pptx)
 
