@@ -1,13 +1,3 @@
-This public page contains slide decks from presenters at the DIGISURVOR Workshop: ‘Linking Digital Footprint and Survey Data for Open Research’ 13-14th February 2025 and other relevant documents. 
-
-Slide Decks: 
-
-**Session 1: Introduction** 
-
-[DIGISURVOR Team - Slides](https://github.com/ConorGaughan2/digisurvor_workshop/blob/main/docs/UoM%20Team%20Presentation_Digisurvor%20Workshop.pptx)
-
-[DIGISURVOR Team - Variable Document (W.I.P)](https://github.com/ConorGaughan2/digisurvor_workshop/blob/main/docs/DATASET_1_variables_(core_final).docx)
-
 **Session 2: Overview of existing data donation platforms**
 
 [Bella Struminskaya (Utrecht University) – The EU - The D3I Project]
