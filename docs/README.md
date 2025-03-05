@@ -6,7 +6,7 @@ Slide Decks:
 
 [DIGISURVOR Team - Slides](https://github.com/ConorGaughan2/digisurvor_workshop/blob/main/docs/UoM%20Team%20Presentation_Digisurvor%20Workshop.pptx)
 
-[DIGISURVOR Team - Variable Document (W.I.P)] 
+[DIGISURVOR Team - Variable Document (W.I.P)](https://github.com/ConorGaughan2/digisurvor_workshop/blob/main/docs/DATASET_1_variables_(core_final).docx)
 
 **Session 2: Overview of existing data donation platforms**
 
@@ -41,4 +41,9 @@ Slide Decks:
 [Silvia Majo-Vazquez (Vrije Universiteit Amsterdam)](https://github.com/ConorGaughan2/digisurvor_workshop/blob/main/docs/20250214_DigiSurv_Presentation_SMV.pdf)
 
 [Sarah Shugars (Rutgers University)](https://github.com/ConorGaughan2/digisurvor_workshop/blob/main/docs/Digisurvor_workshop_S_Shugars.pdf) 
+
+**Smart data for research and innovation**
+
+[UKRI Smart Data For Research and Innovation](https://github.com/ConorGaughan2/digisurvor_workshop/blob/main/docs/SDR_UK_overview-Feb_14_2025-DIGISURVOR_Workshop.pdf)
+
 
