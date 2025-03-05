@@ -1,3 +1,5 @@
+**WORKSHOP SLIDE DECKS**
+
 **Session 2: Overview of existing data donation platforms**
 
 [Bella Struminskaya (Utrecht University) – The EU - The D3I Project]
@@ -34,4 +36,6 @@
 
 [UKRI Smart Data For Research and Innovation](SDR_UK_overview-Feb_14_2025-DIGISURVOR_Workshop.pdf)
 
+
+[Back to Home](../README.md)
 
