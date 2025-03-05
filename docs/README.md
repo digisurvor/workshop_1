@@ -38,7 +38,7 @@ Slide Decks:
 
 [Ruben Bach (University of Mannheim)]
 
-[Silvia Majo-Vazquez (Vrije Universiteit Amsterdam)]
+[Silvia Majo-Vazquez (Vrije Universiteit Amsterdam)](https://github.com/ConorGaughan2/digisurvor_workshop/blob/main/docs/20250214_DigiSurv_Presentation_SMV.pdf)
 
 [Sarah Shugars (Rutgers University)]
 
