@@ -12,31 +12,31 @@ Slide Decks:
 
 [Bella Struminskaya (Utrecht University) – The EU - The D3I Project]
 
-[Alexi Quintana Mathé (Northeastern University) – The US - National Internet Observatory]
+[Alexi Quintana Mathé (Northeastern University) – The US - National Internet Observatory](https://github.com/ConorGaughan2/digisurvor_workshop/blob/main/docs/NIO Manchester.pdf)
 
-[David Zendle (University of York) – The UK - Data Donation Service (DDS) UK]
+[David Zendle (University of York) – The UK - Data Donation Service (DDS) UK](docs/SDDS Manchester 13-02-2025.pptx)
 
 **Session 3: Linking survey and social media data**
 
-[Jonathan Nagler (NYU Center for Social Media and Politics)]
+[Jonathan Nagler (NYU Center for Social Media and Politics)](https://github.com/ConorGaughan2/digisurvor_workshop/blob/main/docs/nagler_manchester2025_post.pdf)
 
 [Tarek Al Baghal (University of Essex)](https://github.com/ConorGaughan2/digisurvor_workshop/blob/main/docs/albaghal.digisurvor.v2.pptx)
 
-[Andreu Casas (Royal Holloway)]
+[Andreu Casas (Royal Holloway)](https://github.com/ConorGaughan2/digisurvor_workshop/blob/main/docs/what-if-project-overview-presentation-digisurv-manchester-13feb2024.pdf)
 
-[Sebastian Stier (GESIS)](https://github.com/ConorGaughan2/digisurvor_workshop/blob/main//docs/DIGISURVOR_Manchester_Stier.pdf)
+[Sebastian Stier (GESIS)](https://github.com/ConorGaughan2/digisurvor_workshop/blob/main/docs/DIGISURVOR_Manchester_Stier.pdf)
 
 **Session 4: Linking survey and web-tracking data**
 
-[Melanie Revilla (Universitat Pompeu Fabra)]
+[Melanie Revilla (Universitat Pompeu Fabra)](https://github.com/ConorGaughan2/digisurvor_workshop/blob/main/docs/Manchester-Melanie-vf.pdf)
 
 [Florian Keusch (University of Mannheim)]
 
-[Toby Crisp (IPSOS)]
+[Toby Crisp (IPSOS)](https://github.com/ConorGaughan2/digisurvor_workshop/blob/main/docs/Ipsos_Linking_survey_web_tracking_data.pptx)
 
 **Session 5: Social science research using linked data**
 
-[Ruben Bach (University of Mannheim)]
+[Ruben Bach (University of Mannheim)](https://github.com/ConorGaughan2/digisurvor_workshop/blob/main/docs/Ruben.pdf)
 
 [Silvia Majo-Vazquez (Vrije Universiteit Amsterdam)](https://github.com/ConorGaughan2/digisurvor_workshop/blob/main/docs/20250214_DigiSurv_Presentation_SMV.pdf)
 
