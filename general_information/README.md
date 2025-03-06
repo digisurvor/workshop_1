@@ -1,22 +1,22 @@
 **DIGISURVOR Team - University of Manchester**
 
-Rachel Gibson (PI):  
+**Rachel Gibson (PI):**  
 Professor of Political Science, Cathie Marsh Institute for Social Research [CMIST]  
 rachel.gibson@manchester.ac.uk  
 
-Marta Cantijoch:  
+**Marta Cantijoch:**  
 Senior Lecturer in Politics, Institute for Social Change [ISC]  
 marta.cantijoch@manchester.ac.uk  
 
-Alexandru Cernat:  
+**Alexandru Cernat:**  
 Associate Professor in Social Statistics, Cathie Marsh Institute for Social Research [CMIST]  
 alexandru.cernat@manchester.ac.uk  
 
-Riza Batista-Navarro:  
+**Riza Batista-Navarro:**  
 Senior Lecturer in Text Mining, Department of Computer Science  
 riza.batista@manchester.ac.uk  
 
-Conor Gaughan:  
+**Conor Gaughan:**  
 Postdoctoral Research Associate, Cathie Marsh Institute for Social Research [CMIST]  
 conor.gaughan@manchester.ac.uk  
 
