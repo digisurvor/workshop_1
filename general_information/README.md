@@ -5,7 +5,7 @@ Professor of Political Science, Cathie Marsh Institute for Social Research [CMIS
 rachel.gibson@manchester.ac.uk  
 
 **Marta Cantijoch:**  
-Senior Lecturer in Politics, Institute for Social Change [ISC]  
+Senior Lecturer in Politics, Department of Politics
 marta.cantijoch@manchester.ac.uk  
 
 **Alexandru Cernat:**  
