@@ -5,7 +5,7 @@ Professor of Political Science, Cathie Marsh Institute for Social Research [CMIS
 rachel.gibson@manchester.ac.uk  
 
 **Marta Cantijoch:**  
-Senior Lecturer in Politics, Department of Politics
+Senior Lecturer in Politics, Department of Politics  
 marta.cantijoch@manchester.ac.uk  
 
 **Alexandru Cernat:**  
@@ -30,6 +30,8 @@ This project will focus on demonstrating the conceptual and methodological value
 [DIGISURVOR Team - Slides](UoM_Team_Presentation_Digisurvor_Workshop.pdf)
 
 [DIGISURVOR Team - Variable Document (W.I.P)](DATASET_1_variables_(core_final).pdf)
+
+[Workshop Summary](DIGISURVOR_Workshop_Summary.pdf) 
 
 
 
