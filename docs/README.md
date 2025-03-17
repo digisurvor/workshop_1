@@ -26,7 +26,7 @@
 
 **Session 5: Social science research using linked data**
 
-[Ruben Bach (University of Mannheim)](Ruben.pdf)
+[Ruben Bach (University of Mannheim)](Ruben_new.pdf)
 
 [Silvia Majo-Vazquez (Vrije Universiteit Amsterdam)](20250214_DigiSurv_Presentation_SMV.pdf)
 
